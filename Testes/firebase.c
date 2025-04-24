@@ -7,10 +7,10 @@
 #include <ArduinoJson.h> 
 
 // Definições do Wi-Fi e Firebase
-#define WIFI_SSID "Eventos2023"                  // Nome da rede Wi-Fi
-#define WIFI_PASSWORD "cmpf2024@ufersa"             // Senha do Wi-Fi
-#define FIREBASE_HOST "https://bioreactorview-default-rtdb.firebaseio.com/"  // URL do Firebase Database  
-#define FIREBASE_AUTH "VSfduFLn3glZhDkSyPqOqN3hj7N1mFPEQ0yCDKLV" // Chave de autenticação
+#define WIFI_SSID "--------"                  // Nome da rede Wi-Fi
+#define WIFI_PASSWORD "--------"             // Senha do Wi-Fi
+#define FIREBASE_HOST "-----------"  // URL do Firebase Database  
+#define FIREBASE_AUTH "--------------" // Chave de autenticação
 
 
 // Inicializa o Firebase e LCD

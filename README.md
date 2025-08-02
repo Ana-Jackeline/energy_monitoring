@@ -24,8 +24,7 @@ monitoramento-biorreatores/
 ├── circuitos/             # Imagens e diagramas de circuitos utilizados
 │   └── circuito_CW-MFC.png
 │
-├── README.md              # Este arquivo
-└── .gitignore             # Arquivos ignorados pelo Git
+└── README.md              # Este arquivo
 
 ---
 

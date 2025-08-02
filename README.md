@@ -25,9 +25,7 @@ monitoramento-biorreatores/
 │   └── circuito_CW-MFC.png
 │
 ├── README.md              # Este arquivo
-├── LICENSE                # Licença do projeto (ex: MIT)
 └── .gitignore             # Arquivos ignorados pelo Git
-```
 
 ---
 
@@ -57,12 +55,6 @@ monitoramento-biorreatores/
 3. Abra os arquivos `.ino` da pasta `/testes_iniciais` para verificar os módulos separadamente.
 4. Use o código final da pasta `/codigo_final` para o sistema integrado.
 5. Certifique-se de instalar as bibliotecas necessárias (ex: `LiquidCrystal_I2C.h`, `SD.h`).
-
----
-
-## 📝 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
